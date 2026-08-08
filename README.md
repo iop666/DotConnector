@@ -24,7 +24,7 @@
 
 ### 方式一：直接使用（推荐）
 
-1. 下载 [DotConnector.exe](dist/DotConnector.exe)（单文件，约 12MB）
+1. 下载 [DotConnector.exe]([https://github.com/iop666/DotConnector/releases])（单文件，约 12MB）
 2. 双击运行，无需安装
 
 ### 方式二：从源码运行
@@ -205,7 +205,7 @@ Tray（独立线程）
 
 ## 📄 License
 
-本项目源码可自由使用、修改与分发（MIT 风格）。
+本项目全程由DeepSeek V4 Flash编写。
 
 ---
 
