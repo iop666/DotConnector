@@ -2,8 +2,6 @@
 
 轻量、可靠的 Windows 鼠标连点工具。**纯 Python + tkinter** 实现，通过 `ctypes` 直接调用 Win32 `mouse_event` / `SetCursorPos` 模拟点击，**零第三方运行时依赖**。
 
-> 已打包为单文件 exe，普通用户无需安装任何环境即可使用；开发者可阅读源码自由定制。
-
 ---
 
 ## ✨ 特性一览
