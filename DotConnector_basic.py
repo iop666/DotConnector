@@ -37,14 +37,34 @@ from tkinter import font as tkfont
 
 APP_NAME = 'DotConnector 连点器'
 VERSION = '1.0.0'
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+
+def app_base_dir():
+    """程序数据目录（config.ini / logs 写入位置）：
+    - 打包为 exe 后 = exe 所在目录（可写、重启持久）
+    - 源码运行时 = 项目目录
+    注意：PyInstaller onefile 下 __file__ 指向临时 _MEIPASS 目录，配置写那里退出即丢。"""
+    if getattr(sys, 'frozen', False):
+        d = os.path.dirname(os.path.abspath(sys.executable))
+        # 若 exe 所在目录不可写（如 Program Files），退回用户目录
+        try:
+            probe = os.path.join(d, '.dc_probe')
+            with open(probe, 'w'):
+                pass
+            os.remove(probe)
+            return d
+        except Exception:
+            return os.path.expanduser('~')
+    return os.path.dirname(os.path.abspath(__file__))
+
+
+BASE_DIR = app_base_dir()
 CONFIG_PATH = os.path.join(BASE_DIR, 'config.ini')
-ICON_PATH = os.path.join(BASE_DIR, 'icon.ico')
 
 
 def resource_path(name):
-    """定位资源文件：兼容 PyInstaller 打包后 _MEIPASS 路径。"""
-    base = getattr(sys, '_MEIPASS', BASE_DIR)
+    """定位资源文件：兼容 PyInstaller 打包后 _MEIPASS 路径（只读资源如图标）。"""
+    base = getattr(sys, '_MEIPASS', os.path.dirname(os.path.abspath(__file__)))
     return os.path.join(base, name)
 
 user32 = ctypes.WinDLL('user32', use_last_error=True)
