@@ -6,6 +6,33 @@ A lightweight, reliable Windows mouse auto-clicker. Implemented in **pure Python
 
 ---
 
+## ⚠️ Important Disclaimer and Usage Restrictions
+
+**DotConnector** is a general-purpose mouse automation tool intended **for legal and legitimate use only**, including but not limited to:
+
+- Repetitive office tasks
+- Software testing and UI automation
+- Personal learning and research
+
+### 🚫 Strictly Prohibited Activities
+
+Do not use this tool for any form of cheating or policy violation, including but not limited to:
+
+- **Game cheating** – AFK farming, score boosting, auto-aim, auto-loot, or evading anti-AFK detection in any online or competitive game, in violation of the game's terms of service
+- **Click fraud / traffic manipulation** – Fake clicks, review manipulation, or ad fraud
+- **Interfering with third-party software** – Unauthorized disruption, tampering, or cracking of other programs
+- **Any other illegal or infringing activity**
+
+### ⚖️ Use at Your Own Risk
+
+The user assumes full responsibility for any consequences arising from misuse of this software, including but not limited to permanent game account bans, data loss, or legal liability. The developer assumes no liability whatsoever.
+
+By launching this software, you acknowledge that you have read and agree to this disclaimer. If you intend to use it in a potentially prohibited scenario, please exit and delete the software immediately.
+
+> This project is completely free and ad-free. Please do not use it for gray-market or cheating activities.
+
+---
+
 ### 🖥️ Interface & Interaction
 
 <img width="1021" height="1295" alt="image" src="https://github.com/user-attachments/assets/8b04ebe6-583c-4119-8eb7-c92ded51114e" />
