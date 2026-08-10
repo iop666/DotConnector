@@ -25,7 +25,7 @@ A lightweight, reliable Windows mouse auto-clicker. Implemented in **pure Python
 
 ### 🖱️ Auto Clicking
 
-<img width="1051" height="1306" alt="image" src="https://github.com/user-attachments/assets/bc169a9a-c5c9-47fb-abd2-88ea18eba25d" />
+<img width="1021" height="1295" alt="image" src="https://github.com/user-attachments/assets/0964136c-c3e9-4393-b224-1290e594508e" />
 
 | Capability | Description |
 |---|---|
