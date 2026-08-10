@@ -125,6 +125,8 @@ python DotConnector_basic.py
 
 ## 🗂️ 本地生成的文件
 
+<img width="414" height="245" alt="image" src="https://github.com/user-attachments/assets/c1d95742-b3e0-4726-87cb-a01eb55b1f89" />
+
 软件会在**程序所在目录**（源码运行时 = 项目目录；打包后 = exe 所在目录）生成以下文件 / 文件夹：
 
 ### ① `config.ini` — 设置持久化
