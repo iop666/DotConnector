@@ -1,5 +1,7 @@
 # 🖱️ DotConnector 连点器
 
+**简体中文** · [English](https://github.com/iop666/DotConnector/blob/main/README_EN.md)
+
 轻量、可靠的 Windows 鼠标连点工具。**纯 Python + tkinter** 实现，通过 `ctypes` 直接调用 Win32 `mouse_event` / `SetCursorPos` 模拟点击，**零第三方运行时依赖**。
 
 ---
