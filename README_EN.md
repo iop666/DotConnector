@@ -50,7 +50,7 @@ A lightweight, reliable Windows mouse auto-clicker. Implemented in **pure Python
 
 ### Option 1: Use the executable (recommended)
 
-1. Download [DotConnector.exe](dist/DotConnector.exe) (single file, ~12 MB)
+1. Download [DotConnector.exe] (single file, ~12 MB)
 2. Double-click to run — no installation required
 
 ### Option 2: Run from source
