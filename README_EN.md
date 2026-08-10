@@ -243,8 +243,4 @@ Yes. The `.xml` format is human-readable text — just share the file; the other
 
 ## 📄 License
 
-Free to use, modify, and redistribute (MIT-style).
-
----
-
-**Thanks for using!** If you have questions or feature suggestions, feel free to open an issue.
+**Thanks for using!** 
