@@ -305,7 +305,7 @@ def tr(text):
     return text
 
 APP_NAME = 'DotConnector 连点器'
-VERSION = '1.1.0'
+VERSION = '1.1.1'
 
 
 def app_base_dir():
