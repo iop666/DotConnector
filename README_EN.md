@@ -25,7 +25,7 @@ A lightweight, reliable Windows mouse auto-clicker. Implemented in **pure Python
 
 ### 🖱️ Auto Clicking
 
-<img width="1000" height="1297" alt="image" src="https://github.com/user-attachments/assets/72fc0b7a-3fb3-4ba9-98b5-bdf8b6513c20" />
+<img width="1051" height="1306" alt="image" src="https://github.com/user-attachments/assets/bc169a9a-c5c9-47fb-abd2-88ea18eba25d" />
 
 | Capability | Description |
 |---|---|
@@ -38,7 +38,7 @@ A lightweight, reliable Windows mouse auto-clicker. Implemented in **pure Python
 
 ### 🎬 Script Recording & Replay
 
-<img width="1001" height="1307" alt="image" src="https://github.com/user-attachments/assets/3d3514f0-54ac-49b2-a0a8-7f3f8eff9c7b" />
+<img width="1037" height="1311" alt="image" src="https://github.com/user-attachments/assets/b94a567e-e3ba-47e6-8fa5-b80dfbbdfe67" />
 
 - **Record**: mouse movement, mouse buttons (left/middle/right press & release), **keyboard input** (letters / digits / function keys / symbol keys `-=[]\;',./`), and delays between actions
 - **Playback**: run once (default) / loop count / **infinite loop** / loop gap / **speed multiplier** (faster/slower) / **relative movement** (don't jump to the recorded coordinates)
@@ -68,7 +68,7 @@ python DotConnector_basic.py
 
 They work even when the window is not focused. Customize them in the "Hotkey Settings" tab:
 
-<img width="989" height="772" alt="image" src="https://github.com/user-attachments/assets/6a6a8260-b639-4e4f-ada0-051136f9e3aa" />
+<img width="1050" height="775" alt="image" src="https://github.com/user-attachments/assets/d9a46bc9-99d2-4cf4-a795-bf31c4abd86a" />
 
 | Default hotkey | Function |
 |---|---|
