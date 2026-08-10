@@ -8,7 +8,7 @@ A lightweight, reliable Windows mouse auto-clicker. Implemented in **pure Python
 
 ### 🖥️ Interface & Interaction
 
-<img width="1032" height="1293" alt="image" src="https://github.com/user-attachments/assets/1b9660c8-821c-4420-8f32-dcfc35066c70" />
+<img width="1021" height="1295" alt="image" src="https://github.com/user-attachments/assets/8b04ebe6-583c-4119-8eb7-c92ded51114e" />
 
 - **5 tabs**: Run Status / Click Mode / Script Mode / Hotkey Settings / More Settings
 - **5 global hotkeys**, all customizable (conflict detection, Esc to cancel, bare F1–F24 supported)
@@ -25,7 +25,7 @@ A lightweight, reliable Windows mouse auto-clicker. Implemented in **pure Python
 
 ### 🖱️ Auto Clicking
 
-<img width="1021" height="1295" alt="image" src="https://github.com/user-attachments/assets/0964136c-c3e9-4393-b224-1290e594508e" />
+<img width="1028" height="1302" alt="image" src="https://github.com/user-attachments/assets/415241fc-bebb-4e6c-9e2b-c1a501f92043" />
 
 | Capability | Description |
 |---|---|
